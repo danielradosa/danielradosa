@@ -1,4 +1,4 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=vuejs,php,lamp)](https://github.com/danielradosa)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=vuejs,php,mysql)](https://github.com/danielradosa)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Knows&badges=mysql,php,JavaScript,html,css,sass,vuejs,python,linux)](https://github.com/danielradosa)
 
