@@ -4,3 +4,4 @@
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=DangoTypesDWP&locale=en)](https://github.com/danielradosa/DangoTypesDWP/)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=superior-assault&locale=en)](https://github.com/danielradosa/superior-assault/)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=dango.guides&locale=en)](https://github.com/danielradosa/dango.guides/)
