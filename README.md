@@ -5,3 +5,10 @@
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=DangoTypesDWP&locale=en)](https://github.com/danielradosa/DangoTypesDWP/)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=superior-assault&locale=en)](https://github.com/danielradosa/superior-assault/)
+
+## What I do in free time
+- play guitar 🎸
+- read books 📖
+- get interested in something and can't let go until i know everything about it 🌟
+- build custom mechanical keyboards ⌨️
+- draw / write ✍️
