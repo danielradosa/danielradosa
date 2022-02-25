@@ -1,6 +1,6 @@
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=vuejs,github,php)](https://github.com/danielradosa)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Frameworks&badges=VueJS,Quasar,PHP,Node.js,Express.js,HTML,MongoDB,JavaScript,React-native,Expo)](https://github.com/danielradosa)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Frameworks&badges=Quasar,VueJS,PHP,NodeJS,ExpressJS,HTML,JavaScript,React-native,Expo,Laravel)](https://github.com/danielradosa)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Styling&badges=CSS,SASS,Bootstrap,Tailwind,Vuetify)](https://github.com/danielradosa)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Git,GitHub)](https://github.com/danielradosa)
 
