@@ -4,8 +4,8 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Styling&badges=CSS,SASS,Bootstrap,Tailwind,Vuetify)](https://github.com/danielradosa)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Git,GitHub)](https://github.com/danielradosa)
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=DangoTypesDWP&locale=en)](https://github.com/danielradosa/DangoTypesDWP/)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=superior-assault&locale=en)](https://github.com/danielradosa/superior-assault/)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=Silkk-repo&locale=en)](https://github.com/danielradosa/silkk-repo/)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=danielradosa&repo=crypto-vibe&locale=en)](https://github.com/danielradosa/crypto-vibe/)
 
 ## What I do in free time
 - play guitar 🎸
