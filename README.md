@@ -60,7 +60,7 @@
 - Font used in Vim & VSCode: [Hack NF](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0) | [NerdFonts](https://www.nerdfonts.com/)
 
 #### Laptop:
-- Model : ASUS ROG STRIX GL504GM_GL504GM
+- Model : ASUS ROG STRIX GL504GM
 - RAM : 16GB
 - GPU : 1060 6GB
 - CPU : i7-8750H | 6 cores | 12 threads @ 2.20GHz
