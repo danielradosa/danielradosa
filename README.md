@@ -5,7 +5,7 @@
 
 ## I am an esoteric mans !
 
-- I am currently learning guitar theory & Korean language
+- I am currently learning guitar theory & korean language
 - I will do everything to become a freelance developer
 - Dev goals for 2022: Web3.0 :heavy_check_mark: | p5.js :x: | GLSL :x:
 - Fun facts: My guitar is called Isabelle and I broke her G string many times, I produce & mix music in my free time, and also draw :writing_hand:
