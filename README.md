@@ -8,7 +8,7 @@
 - I am currently learning guitar theory & Korean language
 - I will do everything to become a freelance developer
 - Dev goals for 2022: Web3.0 :heavy_check_mark: | p5.js :x: | GLSL :x:
-- Fun facts: My guitar is called Isabelle and I broke her G string many times :smirk:, I produce & mix music in my free time, and also draw :writing_hand:
+- Fun facts: My guitar is called Isabelle and I broke her G string many times, I produce & mix music in my free time, and also draw :writing_hand:
 - Investments: [Garlicoin](https://garlicoin.io) <img align="center" width="26px" src="https://media1.giphy.com/media/AVqBEuhKgit6vBa0kD/giphy.gif?cid=790b7611890af8c14e39c4c79aea9983d9dc09495a136d3a&rid=giphy.gif&ct=g" />
 
 ### Tech Stack:
