@@ -76,22 +76,9 @@
 - Pad : Sillicone
 - Switches : protozoa.studio | Nightcall Linear
 
-#### Daniel's everyday items:
-- Samsung Galaxy Z Flip3
-- Phillips BT Earphones
-- Laptop
-- JBL Flip4
-- Razer Mercury Edition Headphones
-- Dickies Cap
-- [Lyft/Lab Nicotine Pouches](https://www.lyft.dk/dk/da/lyft-lab)
-- [Dior Notepad](https://www.dior.com/en_dk/products/couture-HYA02CTJ0U_C500-large-notebook-toile-de-jouy)
-- [Dior Suavage Perfume](https://www.dior.com/fr_fr/products/beauty-Y0998004-sauvage-parfum?objectID=Y0998004&query=suavage&queryID=ce89759e74d212d24485e5fb4465aeef)
-- [Mastic Gum](https://www.jotunheimnutrition.de/product/mastic-tears-chios-mastic-chewing-gum/)
-
 ---
 
 ### Connect with me:
-
 - Youtube(music channel): https://www.youtube.com/channel/UC3Uje6Trog11aNVbpGuSKdg
 - Instagram: https://instagram.com/danielradosa
 - LinkedIn: https://www.linkedin.com/in/daniel-radosa/
