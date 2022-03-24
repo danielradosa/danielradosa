@@ -75,6 +75,7 @@
 - Keycaps : Razer Phantom | black
 - Pad : Sillicone
 - Switches : protozoa.studio | Nightcall Linear
+<img width="500px" src="https://i.imgur.com/Y3C9Vat.jpeg">
 
 ---
 
