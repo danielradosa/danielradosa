@@ -68,10 +68,10 @@
 - Plate : poly-carbonate | transparent
 - Case : transparent | black
 - Layout : 65% ANSI
-- Keycaps : Razer Phantom | black
+- Keycaps : Tai-Hao | smoky quartz
 - Pad : Sillicone
 - Switches : protozoa.studio | Nightcall Linear
-<img width="500px" src="https://i.imgur.com/Y3C9Vat.jpeg">
+<img width="500px" src="https://imgur.com/gallery/AqIe7DN">
 
 ---
 
