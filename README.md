@@ -61,10 +61,6 @@
 
 #### Laptop:
 - Model : ASUS ROG STRIX GL504GM
-- RAM : 16GB
-- GPU : 1060 6GB
-- CPU : i7-8750H | 6 cores | 12 threads @ 2.20GHz
-- Storage : 2TB SSHD | 256GB SSD
 
 #### Custom built keyboard:
 - Kit : Wired KBD67 Lite R3
