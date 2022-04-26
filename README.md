@@ -56,11 +56,8 @@
 - Vim | [vim config](https://github.com/danielradosa/config/blob/main/.vimrc)
 - Spotify | [playlist](https://open.spotify.com/playlist/04WwTOBxmWHXv4vt8EG0Ht?si=94fab86fdba8439a)
 - Windows Terminal | [powershell profile](https://github.com/danielradosa/config/blob/main/powershell_profile.ps1)
-- Wallpaper | [wallpaper](https://wallhaven.cc/w/dp2mol) Changed hue of this picture so the wallpaper is red | Props to the [designer](https://surrealutopia.com/), this stuff is insane
+- Wallpaper | [wallpaper](https://wallhaven.cc/w/6o6orw)
 - Font used in Vim, Terminal & VSCode: [Hack NF](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0) | [NerdFonts](https://www.nerdfonts.com/)
-
-#### Laptop:
-- Model : ASUS ROG STRIX GL504GM
 
 #### Custom built keyboard:
 - Kit : Wired KBD67 Lite R3
