@@ -71,7 +71,7 @@
 - Keycaps : Tai-Hao | smoky quartz
 - Pad : Sillicone
 - Switches : protozoa.studio | Nightcall Linear
-<img width="500px" src="https://imgur.com/gallery/AqIe7DN">
+<img width="500px" src="https://i.imgur.com/d6C0n74.jpeg">
 
 ---
 
