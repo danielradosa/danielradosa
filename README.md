@@ -42,9 +42,8 @@
 ### My portfolio projects:
 
 - Web 3.0 Send ETH cheap & fast : [CryptoVibe](https://cryptovibe.netlify.app/) | Hardhat, Alchemy, Solidity, JS, React
-- Project mgmt tool : [Silkk](https://silkk.netlify.app/#/) | Quasar, VueJS, TypeScript, Sass 
+- Project management tool : [Silkk](https://silkk.netlify.app/#/) | Quasar, VueJS, TypeScript, Sass 
 - Mechanical keyboard switches API : [MS-API](https://dnlrds.xyz/ms-api/#/) | Node.js, Mongoose, MongoDB, ExpressJS, JWT
-- Mechanical Keyboards Webshop : [DangoTypes](https://dnlrds.xyz/dangotypes) | MySQL, PHP, HTML5, CSS3
 - Ethereum Tools : [Rarible Tools](https://tools.gravityenterprises.co.za/#/) | Quasar, Sass
 
 ---
