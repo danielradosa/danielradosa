@@ -2,14 +2,14 @@
 
 [![Online Business Card](https://img.shields.io/website?label=dnlrds.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dnlrds.xyz)
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/__danielthe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F__danielthe&screen_name=__danielthe)
+![Profile Hits](https://komarev.com/ghpvc/?username=danielradosa&style=flat-square&color=blue)
 
-## I am an esoteric mans !
+## Bit about meh !
 
 - I am currently learning guitar theory & korean language
-- I like customizing everything ( from my PC to clothes I wear and to music I listen to ) 
+- I like customizing everything
 - Dev goals for 2022: Web3.0 :heavy_check_mark: | TypeScript ✔️ | p5js ✔️
-- Fun facts: My guitar is called Isabelle and I broke her G string many times, I produce & mix music in my free time, and also draw :writing_hand:
-- Investments: [Garlicoin](https://garlicoin.io) <img align="center" width="26px" src="https://media1.giphy.com/media/AVqBEuhKgit6vBa0kD/giphy.gif?cid=790b7611890af8c14e39c4c79aea9983d9dc09495a136d3a&rid=giphy.gif&ct=g" />
+- Fun facts: I produce & mix music in my free time, and also draw :writing_hand:
 
 ### Tech Stack:
 
@@ -34,7 +34,6 @@
 ---
 
 ### GitHub Stats:
-
 <img align="center" alt="Daniel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danielradosa&show_icons=true&hide_border=false&title_color=#9dbde7&icon_color=#dddddd&bg_color=bbbbbb&text_color=#9dbde7&border_color=0c1a25" />
 
 ---
@@ -67,8 +66,6 @@
 - Keycaps : Tai-Hao | smoky quartz
 - Pad : Sillicone
 - Switches : protozoa.studio | Nightcall Linear
-<img width="500px" src="https://i.imgur.com/d6C0n74.jpeg">
-
 ---
 
 ### Connect with me:
