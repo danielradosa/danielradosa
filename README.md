@@ -49,10 +49,12 @@
 - Vim | [vim config](https://github.com/danielradosa/config/blob/main/.vimrc)
 - Spotify | [playlist](https://open.spotify.com/playlist/04WwTOBxmWHXv4vt8EG0Ht?si=94fab86fdba8439a)
 - Windows Terminal | [powershell profile](https://github.com/danielradosa/config/blob/main/powershell_profile.ps1)
-- Wallpaper | [wallpaper](https://wallhaven.cc/w/6o6orw)
+- Wallpaper | [wallpaper](https://wallhaven.cc/w/6o19el)
 - Font used in Vim, Terminal & VSCode: [Hack NF](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0) | [NerdFonts](https://www.nerdfonts.com/)
 
 #### Custom built keyboard:
+<img float="left" width="400px" src="https://i.imgur.com/uYETRaU.jpeg" />
+
 - Kit : Wired KBD67 Lite R3
 - Stabs : screw-in KBDfans
 - Plate : poly-carbonate | transparent
@@ -61,6 +63,7 @@
 - Keycaps : Tai-Hao | smoky quartz
 - Pad : Sillicone
 - Switches : protozoa.studio | Nightcall Linear
+
 ---
 
 ### Connect with me:
