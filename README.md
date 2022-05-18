@@ -33,11 +33,6 @@
 
 ---
 
-### GitHub Stats:
-<img align="center" alt="Daniel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danielradosa&show_icons=true&hide_border=false&title_color=#9dbde7&icon_color=#dddddd&bg_color=bbbbbb&text_color=#9dbde7&border_color=0c1a25" />
-
----
-
 ### My portfolio projects:
 
 - Web 3.0 Send ETH cheap & fast : [CryptoVibe](https://cryptovibe.netlify.app/) | Hardhat, Alchemy, Solidity, JS, React
