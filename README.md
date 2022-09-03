@@ -53,8 +53,6 @@
 - Font used in Vim, Terminal & VSCode: [Hack NF](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0) | [NerdFonts](https://www.nerdfonts.com/)
 
 #### Custom built keyboard:
-<img float="left" width="400px" src="https://i.imgur.com/uYETRaU.jpeg" />
-
 - Kit : Wired KBD67 Lite R3
 - Stabs : screw-in KBDfans
 - Plate : poly-carbonate | transparent
