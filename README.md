@@ -1,7 +1,6 @@
 # Hello everyone, I'm Daniel :face_in_clouds:
 
 [![Online Business Card](https://img.shields.io/website?label=dnlrds.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dnlrds.xyz)
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/__belteshazzar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F__belteshazzar&screen_name=__belteshazzar)
 ![Profile Hits](https://komarev.com/ghpvc/?username=danielradosa&style=flat-square&color=blue)
 
 ## Bit about meh !
