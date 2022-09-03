@@ -6,10 +6,10 @@
 
 ## Bit about meh !
 
-- I am currently learning guitar theory & korean language
-- I like customizing everything
-- Dev goals for 2022: Web3.0 :heavy_check_mark: | TypeScript ✔️ | p5js ✔️
-- Fun facts: I produce & mix music in my free time, and also draw :writing_hand:
+- I am a passionate bedroom guitarist
+- Dev goals for 2023: E-Commerce :x: | OpenGL :x: | NFT collection :x:
+- I produce / mix music in my free time
+- And I like working out | WE GO JIM !
 
 ### Tech Stack:
 
@@ -67,6 +67,7 @@
 ---
 
 ### Connect with me:
+- Clothing brand Instagram: @apwire_lab
 - Youtube(music channel): https://www.youtube.com/channel/UC3Uje6Trog11aNVbpGuSKdg
 - Instagram: https://instagram.com/danielradosa
 - LinkedIn: https://www.linkedin.com/in/daniel-radosa/
