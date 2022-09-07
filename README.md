@@ -7,7 +7,7 @@
 ## Bit about meh !
 
 - I am a passionate bedroom guitarist
-- Dev goals for 2023: E-Commerce :x: | OpenGL :x: | NFT collection :x:
+- Dev goals for 2023: Vulkan :x: | OpenGL :x: | NFT collection :x:
 - I produce / mix music in my free time
 - And I like working out | WE GO JIM !
 
