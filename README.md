@@ -1,4 +1,4 @@
-# Hello everyone, I'm Daniel :face_in_clouds:
+# Hello everyone, I'm Daniel :bee:
 
 
 [![Online Business Card](https://img.shields.io/website?label=dnlrds.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dnlrds.xyz)
