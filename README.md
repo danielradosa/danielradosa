@@ -7,7 +7,7 @@
 ## Bit about meh !
 
 - I am a passionate bedroom guitarist
-- My dev goals for 2023 are: GraphQL :x: | OpenGL :x: | Networth Tracker App :x:
+- My dev goals for 2023 are: GraphQL ✔️ | OpenGL :x: | Networth Tracker App :x:
 
 ### Tech Stack:
 
@@ -34,6 +34,8 @@
 
 ### My portfolio projects:
 
+- Socialink : link soonTM | ReactJS, GraphQL, Express, Apollo, Mongoose, MongoDB
+- My Blog : danielradosa.github.io | Jekyll probably  
 - Web 3.0 Send ETH cheap & fast : [CryptoVibe](https://cryptovibe.netlify.app/) | Hardhat, Alchemy, Solidity, JS, React
 - WraithSquad digital assets : [WRTHSQD](https://wraithsquad-test.web.app/) | VueJS, FireBase, Sass
 - Project management tool : [Silkk](https://silkk.netlify.app/#/) | Quasar, VueJS, TypeScript, Sass 
