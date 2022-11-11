@@ -1,5 +1,5 @@
-# Founder @ Daniel Radosa | Beeam | Dvckxverse and Co-founder @ Apwire Lab. :bee:
-
+# Daniel Radosa
+### Founder @ | Beeam | Dvckxverse and Co-founder @ Apwire Lab. :bee:
 
 [![Online Business Card](https://img.shields.io/website?label=dnlrds.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dnlrds.xyz)
 ![Profile Hits](https://komarev.com/ghpvc/?username=danielradosa&style=flat-square&color=blue)
@@ -11,8 +11,8 @@
 
 ### Tech Stack:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
