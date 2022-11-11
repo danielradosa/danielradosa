@@ -1,4 +1,4 @@
-# Hello everyone, I'm Daniel :bee:
+# Founder @ Daniel Radosa | Beeam | Dvckxverse and Co-founder @ Apwire Lab. :bee:
 
 
 [![Online Business Card](https://img.shields.io/website?label=dnlrds.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dnlrds.xyz)
@@ -35,38 +35,12 @@
 ### My portfolio projects:
 
 - Socialink : link soonTM | ReactJS, GraphQL, Express, Apollo, Mongoose, MongoDB
-- My Blog : danielradosa.github.io | Jekyll probably  
 - Web 3.0 Send ETH cheap & fast : [CryptoVibe](https://cryptovibe.netlify.app/) | Hardhat, Alchemy, Solidity, JS, React
 - WraithSquad digital assets : [WRTHSQD](https://wraithsquad-test.web.app/) | VueJS, FireBase, Sass
 - Project management tool : [Silkk](https://silkk.netlify.app/#/) | Quasar, VueJS, TypeScript, Sass 
-- Mechanical keyboard switches API : [MS-API](https://dnlrds.xyz/ms-api/#/) | Node.js, Mongoose, MongoDB, ExpressJS, JWT
-- Ethereum Tools : [Rarible Tools](https://tools.gravityenterprises.co.za/#/) | Quasar, Sass
-
----
-
-### My Setup:
-
-#### My workflow & enviroment:
-- VSCode | [theme](https://marketplace.visualstudio.com/items?itemName=chireia.darker-plus-material-red)
-- Vim | [vim config](https://github.com/danielradosa/config/blob/main/.vimrc)
-- Spotify | [playlist](https://open.spotify.com/playlist/04WwTOBxmWHXv4vt8EG0Ht?si=94fab86fdba8439a)
-- Windows Terminal | [powershell profile](https://github.com/danielradosa/config/blob/main/powershell_profile.ps1)
-- Font used in Vim, Terminal & VSCode: [Hack NF](https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0) | [NerdFonts](https://www.nerdfonts.com/)
-
-#### Custom built keyboard:
-- Kit : Wired KBD67 Lite R3
-- Stabs : screw-in KBDfans
-- Plate : poly-carbonate | transparent
-- Case : transparent | black
-- Layout : 65% ANSI
-- Keycaps : Tai-Hao | smoky quartz
-- Pad : Sillicone
-- Switches : protozoa.studio | Nightcall Linear
 
 ---
 
 ### Connect with me:
-- Clothing brand Instagram: @apwire_lab
-- Youtube(music channel): https://www.youtube.com/channel/UC3Uje6Trog11aNVbpGuSKdg
 - Instagram: https://instagram.com/danielradosa
 - LinkedIn: https://www.linkedin.com/in/daniel-radosa/
