@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **GLSL shaders**
 
-- 🤝 I’m looking for help with **Shadownet**
+- 🤝 I’m looking for help with **React membership with Stripe**
 
 - 👨‍💻 All of my projects are available at [danielradosa.com](danielradosa.com)
 
-- 💬 Ask me about **react, vue and api's**
+- 💬 Ask me about **react, vue, security and api's**
 
 - 📫 How to reach me **whazzup@danielradosa.com**
 
