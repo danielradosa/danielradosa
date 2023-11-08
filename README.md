@@ -5,15 +5,14 @@ i am a digital alchemist or something... 🧙🏻‍♀️
 [www.danielradosa.com](https://danielradosa.com)
 
 ### ongoing projects
-
-online club app
-- [Light Bringers Club](https://light-bringers.netlify.com/) : Slovak language only
-
-X like social media
-- [Arcadia](https://sociaslink.netlify.app/) : English language
-
-realtime messaging app
-- [dove.me](https://doveme.netlify.app/) : Slovak and English
+1. realtime messaging webapp
+  - [dove.me](https://doveme.netlify.app/) : Slovak and English
+    
+2. online club webapp
+  - [Light Bringers Club](https://light-bringers.netlify.com/) : Slovak language only
+    
+3. X like social media
+  - [Arcadia](https://sociaslink.netlify.app/) : English language
 
 ### themes for vs code by me
 - [Cinnamonroll - Light](https://marketplace.visualstudio.com/items?itemName=dango.cinnamonroll-theme)
@@ -21,4 +20,5 @@ realtime messaging app
 
 ### contact
 - email: `28@danielradosa.com`
-- friend.tech: `friend.tech/danielradosa`
+- linkedin: `linkedin.com/in/danielradosa`
+- phone: `+421 905 871 519`
