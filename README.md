@@ -1,4 +1,4 @@
-# Daniel Radosa | dango
+# Daniel Radosa
 
 ### 🍃 Personal website
 [danielradosa.com](https://danielradosa.com)
