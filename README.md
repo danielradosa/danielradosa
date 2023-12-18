@@ -13,7 +13,7 @@ Light:
 [Cinnamoroll](https://marketplace.visualstudio.com/items?itemName=dango.cinnamonroll-theme)  
 
 Dark:  
-[Magicorp](https://marketplace.visualstudio.com/items?itemName=dango.magicorp-theme)
+[Magicorp](https://marketplace.visualstudio.com/items?itemName=dango.magicorp-theme) | 
 [Cinnamoroll](https://marketplace.visualstudio.com/items?itemName=dango.cinnamoroll-dark-theme)
 
 ### 😱 Contact
