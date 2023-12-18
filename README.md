@@ -10,10 +10,11 @@
 
 ### 🌸 VS Code themes
 Light:  
-[Cinnamonroll - Light](https://marketplace.visualstudio.com/items?itemName=dango.cinnamonroll-theme)  
+[Cinnamoroll](https://marketplace.visualstudio.com/items?itemName=dango.cinnamonroll-theme)  
 
 Dark:  
-[Magicorp - Dark](https://marketplace.visualstudio.com/items?itemName=dango.magicorp-theme)
+[Magicorp](https://marketplace.visualstudio.com/items?itemName=dango.magicorp-theme)
+[Cinnamoroll](https://marketplace.visualstudio.com/items?itemName=dango.cinnamoroll-dark-theme)
 
 ### 😱 Contact
 E-mail: `28@danielradosa.com`  
