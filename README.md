@@ -6,4 +6,4 @@
 ### 😱 Contact
 E-mail: `28@danielradosa.com`  
 LinkedIn: `linkedin.com/in/danielradosa`  
-Phone: `+421 905 871 519`
+Phone: `+45 57 20 57 28`
